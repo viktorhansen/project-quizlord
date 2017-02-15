@@ -15,6 +15,19 @@ Note: You will still be able to contribute to the project without knowledge in M
 
 To have some kind of roadmap for the project I created a board at https://trello.com/b/KoTBlPGf/project-quizlord, feel free to contribute with tasks to improve the application or new features you think the application should have. When you want to start working on a task, simply add you as a member of the task and drag it in to development. When the task is finished, make a pull request and move the task in to review. Anyone can review the tasks and add comments for improvements of the code. When the review is finished and pull request accepted the task will be moved in to review ok.
 
+TL;DR:
+  Techniques used and link to help:
+    - C# (https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
+    - jQuery (http://api.jquery.com/)
+    - Bootstrap (http://getbootstrap.com/components)
+    - MVC, Entity Framework (https://www.pluralsight.com/courses/full-stack-dot-net-developer-fundamentals)
+    - LINQ (https://www.pluralsight.com/courses/linq-fundamentals-csharp-6)
+  
+  Link to project board:
+    - https://trello.com/b/KoTBlPGf/project-quizlord
+    
+  Free pluralsight subscription can be obtained through microsoft developer essentials.
+
 Happy coding!!
 /
 <pre style="font: 4px/2px monospace;">+'+++;+''+++'++;###++##+####+###+##++:.` :    ,,';';+;+:+'+++#++################+####################################################################################################@@@@####+##########
