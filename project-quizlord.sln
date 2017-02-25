@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A71C31A4-F52E-4462-AECD-A8795A89DA6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4C153D0-8AB3-4087-A820-514F8FD296AA}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "project-quizlord", "src\project-quizlord\project-quizlord.xproj", "{E498FEBE-9C2F-4751-A6EA-564FB4A6EB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db", "Db\Db.csproj", "{DF22B4B6-AE0A-42BD-A8D7-DEBD97007BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E498FEBE-9C2F-4751-A6EA-564FB4A6EB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E498FEBE-9C2F-4751-A6EA-564FB4A6EB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E498FEBE-9C2F-4751-A6EA-564FB4A6EB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E498FEBE-9C2F-4751-A6EA-564FB4A6EB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF22B4B6-AE0A-42BD-A8D7-DEBD97007BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF22B4B6-AE0A-42BD-A8D7-DEBD97007BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF22B4B6-AE0A-42BD-A8D7-DEBD97007BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF22B4B6-AE0A-42BD-A8D7-DEBD97007BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E498FEBE-9C2F-4751-A6EA-564FB4A6EB63} = {A71C31A4-F52E-4462-AECD-A8795A89DA6C}
+	EndGlobalSection
+EndGlobal
